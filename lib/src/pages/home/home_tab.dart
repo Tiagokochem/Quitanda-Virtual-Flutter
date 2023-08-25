@@ -10,6 +10,7 @@ import 'package:greengrocer/src/config/app_data.dart' as appData;
 import 'package:greengrocer/src/pages/home/components/item_tile.dart';
 import 'package:quitanda/src/config/custom_colors.dart';
 import 'package:quitanda/src/auth/components/pages/home/components/category_tile.dart';
+import 'package:quitanda/src/pages/home/components/item_tile.dart';
 
 class HomeTab extends StatefulWidget {
   const HomeTab({Key? key}) : super(key: key);
